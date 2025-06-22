@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O brinquedo [Genius] (https://www.estrela.com.br/jogo-genius-estrela-100543353_est_pai/p) é um jogo eletrônico de memória popular nos anos 80. Lançado no Brasil pela [Estrela] (https://www.estrela.com.br/), é a versão brasileira do americano Simon, da [Hasbro] (https://products.hasbro.com/pt-br).
+O brinquedo [Genius](https://www.estrela.com.br/jogo-genius-estrela-100543353_est_pai/p) é um jogo eletrônico de memória popular nos anos 80. Lançado no Brasil pela [Estrela](https://www.estrela.com.br/), é a versão brasileira do americano Simon, da [Hasbro](https://products.hasbro.com/pt-br).
 
 [![Genius - Estrela](/img/genius.png)](https://estrela.vteximg.com.br/arquivos/ids/163355-1000-1000/Jogo-Genius-Produto-Estrela.jpg?v=636661399595430000)
 
