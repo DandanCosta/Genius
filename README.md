@@ -77,8 +77,8 @@ dotnet Genius.dll
 
 ## Criado por 
 
-- [Danilo Costa dos Reis]  (https://github.com/DandanCosta)
-- [Carlos Eduardo Coutinho Paredes] (https://github.com/CarlosEduardo113)
+- [Danilo Costa dos Reis](https://github.com/DandanCosta)
+- [Carlos Eduardo Coutinho Paredes](https://github.com/CarlosEduardo113)
 
 ---
 
