@@ -65,7 +65,7 @@ O jogo se estenderá até que o usuário vença todas as rodadas delimitadas pel
 
 ## _Download_
 
-- 
+- [Genius](/dist/Genius.zip) 
 
 ## Execução
 
